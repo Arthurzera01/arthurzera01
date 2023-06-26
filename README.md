@@ -9,4 +9,6 @@
 
 ### Se quiser entrar em contato:
 📫 arthurantonioli06@gmail.com
-![](https://tenor.com/pt-BR/view/whoo-hoo-the-simpsons-excited-gif-4786736)
+
+![image](https://github.com/Arthurzera01/arthurzera01/assets/137836996/5eb657f4-3b6e-49de-a05f-903cee02362f)
+
