@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Arthur, e este é o meu perfil  😃
 
-<!--
-**Arthurzera01/arthurzera01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎂 Tenho 17 anos
+- 👨‍🎓 Sou aluno do [Alura](https://www.alura.com.br)
+- 🌱 Atualmente estou aprendendo Python
+- 💬 Me pergunte sobre **GTA San Andreas** 😆
+- 🗺️ Brazil 🇧🇷
+- ⚡ Fato engraçado: meu pc é um 💩
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se quiser entrar em contato:
+📫 arthurantonioli06@gmail.com
+![](https://tenor.com/pt-BR/view/whoo-hoo-the-simpsons-excited-gif-4786736)
